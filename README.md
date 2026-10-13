@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 😄 Meu nome é Johann, e eu estudo no IFPB- Campus- Campina Grande
+- 🔭 Atualmente, estou participando do projeto  Sprint Behring Academy
+- 🌱 Sei as linguagens de programação Python e Java
 <!--
 **johannbarros-ux/johannbarros-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
